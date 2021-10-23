@@ -4,5 +4,6 @@ public class mainFile{
         System.out.println("Hello");
         String Password = "Hello123";
         String secondPassword = "HelloNewPassword";
+        string newString = Password+secondPassword;
     }
 }
